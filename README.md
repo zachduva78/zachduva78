@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on degree @northeastern
+- 📫 How to reach me: zacharyduva@gmail.com
+- 😄 Pronouns: He/Him
+
 <!--
 **zachduva78/zachduva78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
